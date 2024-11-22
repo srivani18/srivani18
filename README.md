@@ -2,8 +2,6 @@
 - 👀 I’m interested in *web Development,Backend Technologies.
 - 🌱 I’m currently learning *Python, Django..
 - 💞️ I’m looking to collaborate on *Web development challenges.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I enjoy solving puzzles and exploring New technologies.
 
 <!---
